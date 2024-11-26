@@ -14,5 +14,6 @@ module "secrets_project_a_stage" {
   secrets = [
     { name = "PROJECT_A_TOKEN" },
     { name = "PROJECT_A_BKO_TOKEN" },
+    { name = "PROJECT_A_AMPLITUDE_TOKEN" },
   ]
 }
