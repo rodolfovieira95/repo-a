@@ -15,5 +15,6 @@ module "secrets_project_a_stage" {
     { name = "PROJECT_A_TOKEN" },
     { name = "PROJECT_A_BKO_TOKEN" },
     { name = "PROJECT_A_AMPLITUDE_TOKEN" },
+    { name = "PROJECT_A_SENTRY_TOKEN" },
   ]
 }
